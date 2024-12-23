@@ -110,3 +110,11 @@ o	Verify MongoDB data entries after user registration.
 o	Log face detection and matching results.
 o	Ensure embeddings are correctly generated and stored.
 
+Video Links
+CONSTRUCTION :
+https://www.kapwing.com/videos/676987fbf2ccc4353c3c1c57
+
+RECOGNITION
+https://www.kapwing.com/videos/67698aa5035aaf19ece44ed0
+
+
